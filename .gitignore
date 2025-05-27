@@ -1,0 +1,43 @@
+# C++ compiled files
+*.o
+*.obj
+*.exe
+*.out
+
+# Backup files
+*~
+*.bak
+
+# Editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# Competitive Companion generated test files (if any)
+input*.txt
+output*.txt
+*.ans
+*.in
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled static and shared libs
+*.a
+*.so
+*.dll
+*.lib
+
+# CLion / JetBrains
+cmake-build-*/
+
+# Cache files
+*.cache
+
+# GDB
+.gdb_history
